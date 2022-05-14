@@ -1,0 +1,18 @@
+#navbar{
+    flex-direction: column;  /*yukarıdan aşağı doğru sıralar */
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    overflow: hidden; /* taşan kenarları engelliyor*/
+    height: 90px;
+   
+}
+#training .items{
+    flex-direction: column;
+}
+#training .items .item{
+    width: auto;
+}
+.courses .course {
+    flex-direction: column;    
+}
+
